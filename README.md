@@ -1,1 +1,2 @@
- # Banking-Dashboard
+  # Banking-Dashboard
+The simple banking dashboard allows users to manage their account balance by viewing, depositing, and withdrawing money. The webpage features a clean layout with sections displaying the current balance, input fields for deposit and withdrawal amounts, and buttons to execute these actions. JavaScript is used to dynamically update the balance in real-time based on user input, providing a seamless experience for managing transactions.
